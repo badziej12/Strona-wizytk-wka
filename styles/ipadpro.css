@@ -1,0 +1,23 @@
+@media screen and (min-width: 900px) and (orientation: portrait) {
+    html {
+        font-size: 14px;
+    }
+
+
+    .icons-con img {
+        margin: 0 6%;
+    }
+
+
+
+    .icons-con img {
+        height: 55px;
+        width: 55px;
+    }
+
+    .button-con img {
+        width: 60px;
+        height: 60px;
+    }
+
+}

@@ -1,0 +1,17 @@
+@media screen and (min-width: 900px) and (orientation: landscape) {
+    html {
+        font-size: 12px;
+    }
+
+    .welcome {
+        top: 15vh;
+    }
+
+    .icons-con {
+        bottom: 20vh;
+    }
+
+    .button-con {
+        bottom: 7vh;
+    }
+}
