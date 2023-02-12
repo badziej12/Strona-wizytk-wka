@@ -23,6 +23,61 @@
         padding-top: 100px;
     }
 
+    .skill {
+        margin: 3vh auto;
+    }
+
 }
 
-@media screen and (min-width: 1060px) {}
+@media screen and (min-width: 1000px) {
+    .lang-block {
+
+        display: block;
+        float: left;
+        width: 55%;
+    }
+
+    .lang-icons {
+        position: relative;
+        top: -3%;
+        left: 3%;
+    }
+
+    .skills-block {
+        float: right;
+        width: 45%;
+    }
+
+    .skills-con {
+        position: relative;
+        top: 38px;
+    }
+
+    .lang-icons img {
+        position: absolute;
+    }
+
+    .services {
+        left: 8%;
+    }
+
+    .postgresql {
+        top: calc(40% + 5px);
+        left: -8%;
+    }
+
+    .graphql {
+        left: 95px;
+        bottom: -30px;
+    }
+
+    .python {
+        top: calc(40% + 5px);
+        right: -5px;
+    }
+
+    .lang-block {
+        margin-top: 50px;
+    }
+
+}

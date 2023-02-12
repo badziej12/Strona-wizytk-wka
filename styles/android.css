@@ -27,4 +27,8 @@
     .icons-con img {
         margin: 4%;
     }
+
+    .description h3 {
+        margin-bottom: 20px;
+    }
 }
