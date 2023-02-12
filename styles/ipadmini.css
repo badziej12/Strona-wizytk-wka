@@ -24,11 +24,31 @@
         bottom: 6vh;
     }
 
+    section.about {
+        padding-top: 90px;
+        min-height: 960px;
+    }
+
+
 
 }
 
 @media screen and (min-width: 744px) {
     nav.desktop {
         display: none;
+    }
+
+    .skills-con {
+        max-width: 418px;
+        padding-bottom: 1vh;
+    }
+
+    .skills-con h3 {
+        line-height: 80px;
+    }
+
+    .bar {
+        height: 15px;
+        top: 8px;
     }
 }
