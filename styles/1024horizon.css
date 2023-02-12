@@ -1,4 +1,4 @@
-@media screen and (min-width: 900px) and (orientation: landscape) {
+@media screen and (min-width: 810px) and (orientation: landscape) {
     html {
         font-size: 12px;
     }
@@ -9,6 +9,11 @@
 
     .icons-con {
         bottom: 20vh;
+        text-align: right;
+    }
+
+    .icons-con img {
+        margin: 0 2%;
     }
 
     .button-con {
