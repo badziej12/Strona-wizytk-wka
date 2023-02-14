@@ -2,4 +2,16 @@
     html {
         font-size: 16px;
     }
+
+    .skills-con h3 {
+        line-height: 120px;
+    }
+
+    .bar {
+        top: 15px;
+    }
+
+    .divider h1 {
+        line-height: 180px;
+    }
 }
