@@ -7,6 +7,10 @@
         margin: 0 6%;
     }
 
+    .divider h1 {
+        line-height: 160px;
+    }
+
 
 
     .icons-con img {
@@ -52,6 +56,7 @@
         position: relative;
         top: 38px;
     }
+
 
     .lang-icons img {
         position: absolute;

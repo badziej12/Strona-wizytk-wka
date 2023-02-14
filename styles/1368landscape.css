@@ -31,13 +31,17 @@
         height: 60px;
     }
 
+    .skills-con h3 {
+        line-height: 100px;
+    }
+
     .button-con {
         width: 90%;
     }
 
     .button-con img {
-        height: 70px;
-        width: 70px;
+        height: 80px;
+        width: 80px;
     }
 
     section.about {
@@ -52,6 +56,8 @@
 
     .lang-block {
         float: none;
+        margin-top: 100px;
+        margin-bottom: 30px;
         width: 100%;
         height: auto;
         min-height: auto;
@@ -107,6 +113,22 @@
     section.about {
         padding-right: 3%;
         padding-left: 3%;
+    }
+
+    .bar {
+        top: 10px;
+    }
+
+    .description {
+        margin-top: 50px;
+    }
+
+    .description h2 {
+        margin-bottom: 40px;
+    }
+
+    .divider h1 {
+        line-height: 140px;
     }
 
 }
